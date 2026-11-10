@@ -1,0 +1,201 @@
+customer_name,email,city
+Alexandre Traore,customer001@example.com,Casablanca
+Gérard-Frédéric Joly,customer002@example.com,Rabat
+Yves Traore,customer003@example.com,Tanger
+Aurore Maury-Briand,customer004@example.com,Fes
+Alexandre Morin,customer005@example.com,Fes
+Gabriel de Guilbert,customer006@example.com,Marrakech
+Victor du Vasseur,customer007@example.com,Casablanca
+Laurence Robert,customer008@example.com,Casablanca
+Marcel Leblanc,customer009@example.com,Meknes
+Denis-Franck Ledoux,customer010@example.com,Rabat
+Caroline Morin,customer011@example.com,Rabat
+Brigitte Pelletier,customer012@example.com,Casablanca
+Julie Bertrand,customer013@example.com,Fes
+Chantal Hoareau,customer014@example.com,Fes
+Robert Cousin,customer015@example.com,Rabat
+Maryse Verdier de la Fischer,customer016@example.com,Fes
+Alphonse Peltier,customer017@example.com,Meknes
+William Chevalier-Rey,customer018@example.com,Fes
+Laurent Lopes,customer019@example.com,Oujda
+Mathilde Goncalves,customer020@example.com,Tanger
+Marthe Lacroix,customer021@example.com,Rabat
+Zacharie-Tristan Guérin,customer022@example.com,Marrakech
+Denise Joubert de la Goncalves,customer023@example.com,Meknes
+Monique Dupuy,customer024@example.com,Agadir
+Geneviève Pottier-Germain,customer025@example.com,Tanger
+Gabriel David,customer026@example.com,Marrakech
+Noémi Royer,customer027@example.com,Fes
+Franck Duhamel,customer028@example.com,Agadir
+Frédérique Bègue,customer029@example.com,Casablanca
+Nicole Weiss,customer030@example.com,Casablanca
+Claire Aubry,customer031@example.com,Meknes
+Gérard Vallet,customer032@example.com,Casablanca
+Julie Letellier-Mary,customer033@example.com,Agadir
+Noémi Étienne,customer034@example.com,Agadir
+Daniel Grégoire-Teixeira,customer035@example.com,Tanger
+André Masson,customer036@example.com,Rabat
+Thomas Leroux,customer037@example.com,Oujda
+Anouk Collin,customer038@example.com,Casablanca
+Suzanne Evrard,customer039@example.com,Meknes
+Robert-Aimé Bazin,customer040@example.com,Casablanca
+Zacharie Regnier,customer041@example.com,Tanger
+Tristan-Jean Marie,customer042@example.com,Agadir
+Martin Barbier du Bernard,customer043@example.com,Fes
+Philippe-Emmanuel Guillou,customer044@example.com,Casablanca
+Thomas Léger,customer045@example.com,Rabat
+Élodie de la Besson,customer046@example.com,Fes
+Richard Merle,customer047@example.com,Tanger
+Adélaïde Le Camus,customer048@example.com,Casablanca
+Bertrand Étienne,customer049@example.com,Fes
+Georges Boyer de la Duhamel,customer050@example.com,Casablanca
+Augustin Foucher,customer051@example.com,Meknes
+Antoinette Samson,customer052@example.com,Tanger
+Charlotte Rodriguez-Delmas,customer053@example.com,Oujda
+Danielle Aubry,customer054@example.com,Agadir
+Pauline de la Gimenez,customer055@example.com,Marrakech
+Honoré du Leconte,customer056@example.com,Agadir
+Sabine Blondel,customer057@example.com,Agadir
+Célina Hoarau,customer058@example.com,Fes
+Arthur Maillot-Lefebvre,customer059@example.com,Tanger
+Henriette-Geneviève Robert,customer060@example.com,Casablanca
+Thomas Lopez,customer061@example.com,Marrakech
+Arthur David-Rémy,customer062@example.com,Fes
+Pierre Gomez,customer063@example.com,Marrakech
+Xavier-Patrick Benoit,customer064@example.com,Oujda
+Christelle Ramos-Masse,customer065@example.com,Meknes
+Thérèse-Jacqueline Reynaud,customer066@example.com,Tanger
+Élisabeth Gauthier,customer067@example.com,Fes
+Vincent Perret,customer068@example.com,Agadir
+Pauline Bouchet,customer069@example.com,Rabat
+Anastasie Maillet,customer070@example.com,Fes
+Antoine Antoine,customer071@example.com,Rabat
+Catherine Menard,customer072@example.com,Agadir
+Étienne du Joly,customer073@example.com,Meknes
+Édith Lopes,customer074@example.com,Tanger
+Jeanne Sanchez,customer075@example.com,Casablanca
+Capucine Girard,customer076@example.com,Fes
+Agathe Morin-Chrétien,customer077@example.com,Agadir
+Émile Cordier-Vallée,customer078@example.com,Fes
+Frédérique Maréchal,customer079@example.com,Oujda
+Émile Gillet,customer080@example.com,Meknes
+Léon Aubry,customer081@example.com,Oujda
+Louise Briand,customer082@example.com,Marrakech
+Véronique Meyer-Aubert,customer083@example.com,Tanger
+Franck Boyer de Letellier,customer084@example.com,Marrakech
+Andrée Girard,customer085@example.com,Fes
+Valentine-Camille Laporte,customer086@example.com,Tanger
+Antoine Grégoire,customer087@example.com,Meknes
+Éric Muller,customer088@example.com,Meknes
+Antoinette Parent de la Antoine,customer089@example.com,Agadir
+Roland Hoarau,customer090@example.com,Fes
+Alice-Audrey Humbert,customer091@example.com,Marrakech
+Margaux-Josette Martins,customer092@example.com,Oujda
+Isabelle Aubry,customer093@example.com,Casablanca
+Christelle Leconte,customer094@example.com,Rabat
+Michel Gomes de Petit,customer095@example.com,Casablanca
+Capucine Legrand,customer096@example.com,Marrakech
+Frédérique Guillou-Aubry,customer097@example.com,Marrakech
+Jérôme Muller,customer098@example.com,Meknes
+Julien Jacquet-Barbier,customer099@example.com,Casablanca
+Madeleine Raymond,customer100@example.com,Meknes
+Adrienne Le Dupré,customer101@example.com,Meknes
+Daniel Aubry,customer102@example.com,Oujda
+Bernard Bernier,customer103@example.com,Tanger
+Colette Maillard-Carre,customer104@example.com,Rabat
+Françoise Wagner Le Martins,customer105@example.com,Casablanca
+Philippe-Patrick Deschamps,customer106@example.com,Tanger
+Benjamin Couturier,customer107@example.com,Agadir
+Laure Bertrand,customer108@example.com,Casablanca
+Jacques Pires,customer109@example.com,Tanger
+Timothée Charles,customer110@example.com,Meknes
+Matthieu Courtois,customer111@example.com,Marrakech
+Adrienne Marie,customer112@example.com,Oujda
+Denis Morvan,customer113@example.com,Rabat
+Julien Guillon,customer114@example.com,Tanger
+Claudine Perret-Rodriguez,customer115@example.com,Marrakech
+Honoré Marchal,customer116@example.com,Casablanca
+Joseph Lacroix,customer117@example.com,Tanger
+Xavier Henry-Monnier,customer118@example.com,Fes
+Odette Legendre-Bouvet,customer119@example.com,Marrakech
+Georges Goncalves,customer120@example.com,Agadir
+Lucas Laurent,customer121@example.com,Marrakech
+Jacques Bouchet,customer122@example.com,Rabat
+Grégoire Leroux-Boutin,customer123@example.com,Agadir
+Laurent Morel,customer124@example.com,Oujda
+Geneviève Bourgeois,customer125@example.com,Rabat
+Marine Schneider,customer126@example.com,Casablanca
+Frédéric Laurent-Delmas,customer127@example.com,Agadir
+Luc Le Lopes,customer128@example.com,Tanger
+Guillaume Marty,customer129@example.com,Fes
+Noémi Le Leroy,customer130@example.com,Rabat
+Gilles Colin,customer131@example.com,Fes
+Julie-Alex Nicolas,customer132@example.com,Casablanca
+Renée Barre Le Nguyen,customer133@example.com,Casablanca
+Dominique Ferreira du Verdier,customer134@example.com,Oujda
+Gilbert de Neveu,customer135@example.com,Casablanca
+Adélaïde Dijoux,customer136@example.com,Marrakech
+Élodie Marchal-Perret,customer137@example.com,Marrakech
+Xavier Rémy,customer138@example.com,Oujda
+Margaux Dupré de Fouquet,customer139@example.com,Marrakech
+Philippe Ruiz du Millet,customer140@example.com,Tanger
+Lucie Lenoir,customer141@example.com,Meknes
+Étienne De Oliveira,customer142@example.com,Fes
+Diane Chauvet,customer143@example.com,Fes
+Madeleine-Océane Lévy,customer144@example.com,Tanger
+Henri Renault,customer145@example.com,Meknes
+Martin Le Turpin,customer146@example.com,Agadir
+Simone Parent,customer147@example.com,Oujda
+Pierre du Guyon,customer148@example.com,Oujda
+Vincent Clément,customer149@example.com,Casablanca
+Pierre Dupré Le Morin,customer150@example.com,Fes
+Yves Ruiz-Jean,customer151@example.com,Fes
+David de Lambert,customer152@example.com,Casablanca
+Noël Bourdon-Lecoq,customer153@example.com,Agadir
+Michel Legros,customer154@example.com,Rabat
+Élise-Nathalie Costa,customer155@example.com,Fes
+Jacqueline Caron,customer156@example.com,Fes
+Bernard Merle,customer157@example.com,Rabat
+Geneviève Schmitt,customer158@example.com,Casablanca
+Susan de Pascal,customer159@example.com,Rabat
+Charles Pineau-Lucas,customer160@example.com,Fes
+Margaud Faivre,customer161@example.com,Casablanca
+Claude Launay,customer162@example.com,Rabat
+Sophie Leroux-Bernier,customer163@example.com,Agadir
+Stéphanie Poirier,customer164@example.com,Casablanca
+Timothée Baron-Gosselin,customer165@example.com,Fes
+Véronique de la Paris,customer166@example.com,Tanger
+Astrid Delannoy,customer167@example.com,Oujda
+Georges Maillard Le Julien,customer168@example.com,Fes
+Audrey Dos Santos-Fernandes,customer169@example.com,Marrakech
+Léon Lemonnier-Brunet,customer170@example.com,Oujda
+Arthur du Cordier,customer171@example.com,Fes
+Suzanne Legros,customer172@example.com,Oujda
+François De Oliveira,customer173@example.com,Meknes
+Aimée Salmon,customer174@example.com,Fes
+Monique-Valentine Robert,customer175@example.com,Casablanca
+Lucy Chrétien,customer176@example.com,Casablanca
+Paulette Tanguy,customer177@example.com,Meknes
+Geneviève Coulon-Vasseur,customer178@example.com,Agadir
+Martin-Patrick Leroy,customer179@example.com,Meknes
+Maggie Laroche,customer180@example.com,Meknes
+Danielle Bigot,customer181@example.com,Oujda
+Thierry Joubert,customer182@example.com,Rabat
+Louis Allain,customer183@example.com,Casablanca
+Alexandrie-Aurélie Weiss,customer184@example.com,Rabat
+Christiane Pinto,customer185@example.com,Meknes
+André Bertin,customer186@example.com,Agadir
+Marguerite Lecomte,customer187@example.com,Casablanca
+Marguerite Marques,customer188@example.com,Fes
+Laurence Chrétien,customer189@example.com,Fes
+Jeannine Faure,customer190@example.com,Fes
+Agnès Bouvet,customer191@example.com,Oujda
+Anastasie Marty-Hubert,customer192@example.com,Marrakech
+Victor Fournier,customer193@example.com,Meknes
+Gérard Bourgeois,customer194@example.com,Marrakech
+Thierry Brunet,customer195@example.com,Tanger
+Christophe Reynaud-Laroche,customer196@example.com,Oujda
+Roland Carpentier,customer197@example.com,Fes
+Joséphine Gosselin,customer198@example.com,Casablanca
+Danielle Seguin,customer199@example.com,Oujda
+Céline Merle de la Langlois,customer200@example.com,Casablanca

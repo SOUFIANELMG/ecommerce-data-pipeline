@@ -1,0 +1,24 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and passwords
+.env
+.env.*
+!.env.example
+
+# ETL logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

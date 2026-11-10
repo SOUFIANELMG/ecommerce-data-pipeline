@@ -1,0 +1,61 @@
+product_name,price,stock,category_name
+Laptop - REF001,391.99,11,Electronics
+Desk - REF002,1562.99,52,Furniture
+Jeans - REF003,562.99,27,Clothing
+Toaster - REF004,1908.99,7,Home & Kitchen
+Shampoo - REF005,224.99,0,Beauty
+Dumbbells - REF006,593.99,118,Sports
+SQL Handbook - REF007,186.99,54,Books
+Watch - REF008,788.99,100,Accessories
+Keyboard - REF009,2686.99,24,Electronics
+Office Chair - REF010,1983.99,7,Furniture
+Jacket - REF011,823.99,69,Clothing
+Blender - REF012,1591.99,40,Home & Kitchen
+Shampoo - REF013,55.99,74,Beauty
+Dumbbells - REF014,1079.99,117,Sports
+Novel - REF015,120.99,7,Books
+Watch - REF016,122.99,108,Accessories
+Monitor - REF017,1272.99,76,Electronics
+Desk - REF018,2126.99,51,Furniture
+T-Shirt - REF019,653.99,31,Clothing
+Coffee Maker - REF020,1277.99,5,Home & Kitchen
+Face Cream - REF021,71.99,53,Beauty
+Football - REF022,1245.99,72,Sports
+Novel - REF023,201.99,119,Books
+Wallet - REF024,249.99,85,Accessories
+Mouse - REF025,4060.99,33,Electronics
+Office Chair - REF026,1272.99,85,Furniture
+Jacket - REF027,377.99,58,Clothing
+Toaster - REF028,1962.99,96,Home & Kitchen
+Shampoo - REF029,34.99,58,Beauty
+Football - REF030,1203.99,12,Sports
+Python Guide - REF031,315.99,27,Books
+Watch - REF032,311.99,16,Accessories
+Mouse - REF033,1277.99,112,Electronics
+Desk - REF034,3227.99,36,Furniture
+T-Shirt - REF035,518.99,106,Clothing
+Coffee Maker - REF036,1500.99,38,Home & Kitchen
+Face Cream - REF037,443.99,83,Beauty
+Football - REF038,66.99,85,Sports
+Novel - REF039,193.99,119,Books
+Watch - REF040,146.99,120,Accessories
+Monitor - REF041,4483.99,14,Electronics
+Desk - REF042,4732.99,19,Furniture
+Jeans - REF043,358.99,77,Clothing
+Blender - REF044,1529.99,43,Home & Kitchen
+Shampoo - REF045,381.99,81,Beauty
+Dumbbells - REF046,1085.99,62,Sports
+SQL Handbook - REF047,66.99,11,Books
+Watch - REF048,473.99,106,Accessories
+Mouse - REF049,872.99,0,Electronics
+Office Chair - REF050,1271.99,81,Furniture
+Jeans - REF051,235.99,94,Clothing
+Toaster - REF052,1189.99,90,Home & Kitchen
+Perfume - REF053,317.99,1,Beauty
+Yoga Mat - REF054,204.99,120,Sports
+Novel - REF055,116.99,69,Books
+Backpack - REF056,418.99,74,Accessories
+Monitor - REF057,7191.99,16,Electronics
+Desk - REF058,2725.99,46,Furniture
+T-Shirt - REF059,436.99,26,Clothing
+Coffee Maker - REF060,571.99,85,Home & Kitchen
