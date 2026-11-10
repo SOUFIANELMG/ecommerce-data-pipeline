@@ -1,10 +1,13 @@
 import psycopg
 from psycopg.rows import dict_row
-from getpass import getpass
 
 import logging
 from pathlib import Path
 import sys
+import os
+from dotenv import load_dotenv
+
+load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
 # Create logs directory
 log_dir = Path(__file__).resolve().parent.parent / "logs"
@@ -45,7 +48,7 @@ db_config = {
     "port": 5432,
     "dbname": "ecommerce_pipeline_db",
     "user": "postgres",
-    "password": getpass("PostgreSQL password: ")
+    "password": os.environ["PG_PASSWORD"]
 }
 
 
